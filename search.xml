@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Java程序员常用网站合集</title>
+      <link href="/posts/84c/"/>
+      <url>/posts/84c/</url>
+      
+        <content type="html"><![CDATA[<p><strong>JDK</strong>:<a href="https://www.oracle.com/java/technologies/downloads/">https://www.oracle.com/java/technologies/downloads/</a></p><p><strong>MySQL</strong>：<a href="https://dev.mysql.com/downloads/mysql/">https://dev.mysql.com/downloads/mysql/</a></p><p><strong>MVN仓库</strong>：<a href="https://mvnrepository.com/">https://mvnrepository.com/</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Java、网站导航 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo命令大全</title>
       <link href="/posts/bbe4/"/>
       <url>/posts/bbe4/</url>
